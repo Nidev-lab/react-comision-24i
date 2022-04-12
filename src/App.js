@@ -1,9 +1,9 @@
-import FormExample from "./components/FormExample/FormExample";
+import UseEffectExample from "./components/UseEffectExample/UseEffecExample";
 
 const App = () => {
   return (
     <>
-      <FormExample />
+      <UseEffectExample />
     </>
   );
 }
