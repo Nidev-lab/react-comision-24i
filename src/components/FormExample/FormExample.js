@@ -13,7 +13,7 @@ const FormExample = () => {
   //   })
   // } 
 
-  console.log(login)
+  console.log('login: ', login);
 
   return (
     <form className="w-50 m-5" onSubmit={handleSubmit((data) => setLogin(data))}>
